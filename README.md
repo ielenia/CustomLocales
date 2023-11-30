@@ -1,6 +1,6 @@
 # en_US-ISO
 
-I created a custom locale so that I had a custom date and time format (based on RFC 3339). The final format that I made is available on GitHub. Thanks to Severo Raz on AskUbuntu who answered this question about customizing locales. I created it on Ubuntu-MATE, but the majority of the instructions should work on any distribution. The only part that is specific to my distribution is selecting it, but since I don't currently have anything else, you'll probably have to figure it out yourself (or take a look at the AskUbuntu thread that I linked....).
+I created a custom locale so that I had a custom date and time format (based on [RFC 3339](https://datatracker.ietf.org/doc/html/rfc3339)). Thanks to [Severo Raz](https://askubuntu.com/users/567/severo-raz) on AskUbuntu who answered [this question about customizing locales](https://askubuntu.com/questions/21316/how-can-i-customize-a-system-locale). I created it on Ubuntu-MATE, but the majority of the instructions should work on any distribution. The only part that is specific to my distribution is selecting it, but since I don't currently have anything else, you'll probably have to figure it out yourself (or take a look at the AskUbuntu thread that I linked....).
 
 ## Step 1: Creating a Template
 
